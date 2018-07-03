@@ -13,7 +13,7 @@ class SC2Bot(sc2.BotAI):
 
 	async def build_workers(self):
 		for nexus in self.units(NEXUS).ready.noqueue:
-			if self.can_afford(PROBE):
+			if self.can_afford(PROBE):	
 				await self.do(nexus.train(PROBE))
 
 	async def build_pylons(self):
