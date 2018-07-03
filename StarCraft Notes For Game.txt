@@ -1,0 +1,276 @@
+Races:
+ Terrans:
+  * Humanoid race
+  * Average Unit Cost
+  * Building can be built everywhere
+  * Good Defense
+  * Good Mobility
+  * Can Repair building and units
+  * Can relocate bases quickly
+  Type of Units:
+   * Marines:
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+   * Reapers:
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+   * Ghosts:
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+   * SCV:
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+
+    * Unit Manual:
+      * Light unit used to constuct buildings, gather resources, and perform repairs. 
+      * Can only attack ground targets.
+      * Can be used to support your mechanical units in battle.
+      * Not typically used for combat, but can be used to survive a rush when backed up with a few Marines.
+      * SCVs are the most resilent worker unit, compared to other two Races.
+      * Can repair themselves.
+      * Lots of SCVs can collect minerals at a faster rate.
+      * No more than three of them to a single Refinery.
+      * If Enemy SCVs are found near your base, attack the SCVs instead of the structure.
+      * Use workers to scout; they're cheap and fast.
+   * Marauder:
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+   * Hellion:
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+   * Siege Tank:
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+   * Thor:
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+   * Viking:
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+   * Medivac:
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+   * Raven:
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+   * Banshee:
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+   * Battlecruiser:
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+   * Hellbat (Requires Heart of the Swarm EP):
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+   * Widow Mine (Requires Heart of the Swarm EP):
+    * Unit Stats:
+      * Race: Terran
+      * Life: 45
+      * Armor: 0(3 After max upgrades)
+      * Movement: Fast:
+		  * Acceleration: 2.5
+		  * Turn Rate: 999.844
+      * Cargo Size: 1
+      * Producer: Command Center
+      * Hotkey: S
+      * Cost: 50 (Resources), 0 (Gems)
+      * Supply: 1 Unit
+      * Build Time: 17 Seconds
+      * Attributes: Light, Biological and Mechanical
+
+  * Terran Characters:
+    * Jim Raynor:
+       *
+    * Arcturus Mengsk:
+       *
+    * Valerian Mengsk:
+       *
+    * Matt Horner:
+       *
+    * Horace Warfield:
+       *
+    * Nova:
+       *
+    * Tychus Findlay:
+       *
+    * Rory Swann:
+       *
+    * Ariel Hanson:
+       *
+    * Gabriel Tosh:
+       *
+    * Egon Stetmann:
+       *
+    * Milo Kachinsky:
+       *
+    * Graven Hill:
+       *
+
