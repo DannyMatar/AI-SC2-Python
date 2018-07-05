@@ -23,6 +23,12 @@ class SC2Bot(sc2.BotAI):
 				if self.can_afford(PYLON):
 					await self.build(PYLON, near=nexuses.first)
 
+class raceChoice(Race):
+	async def race(self):
+		
+
+
+
 run_game(maps.get("AbyssalReefLE"), [
 	Bot(Race.Protoss, SC2Bot()), 
 	Computer(Race.Terran, Difficulty.Easy)
