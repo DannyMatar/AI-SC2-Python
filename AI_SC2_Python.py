@@ -34,7 +34,7 @@ class SC2Bot(sc2.BotAI):
 
 	async def build_assimilators(self):
 		for nexus in self.units(NEXUS).ready:
-			vaspenes = self.state.vaspene_geyser.closer_than(15.0, nexus)
+			vaspenes = self.state.vespene_geyser.closer_than(15.0, nexus)
 			for vaspene in vaspenes:
 				if not self.can_afford(ASSIMILATOR):
 					break
